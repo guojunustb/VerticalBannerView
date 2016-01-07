@@ -10,6 +10,10 @@
 2. 使用方式类似ListView/RecyclerView
 3. 可为当前的内容添加各种事件,比如点击打开某个页面等
 
+### Attention
+
+API >= 11
+
 ### Usage
 
 可以类比`ListView`
