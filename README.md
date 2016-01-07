@@ -14,6 +14,28 @@
 
 可以类比`ListView`
 
+0. 添加依赖
+
+    - Add it in your root build.gradle at the end of repositories:
+
+        ```
+        
+            allprojects {
+                repositories {
+                    ...
+                    maven { url "https://jitpack.io" }
+                }
+            }
+        ```
+    - Add the dependency
+        
+        ```
+        dependencies {
+        	        compile 'com.github.Rowandjj:VerticalBannerView:1.0'
+        	}
+        ```
+
+
 1. 定义item的布局
     
     ```
