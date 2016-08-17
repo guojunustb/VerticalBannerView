@@ -2,7 +2,7 @@
 
 `VerticalBannerView`是一个android平台下的自定义控件,通常用来展示广告,类似`淘宝头条`,它的样式如下:
 
-![https://github.com/Rowandjj/VerticalBannerView/blob/master/art.gif](https://github.com/Rowandjj/VerticalBannerView/blob/master/art.gif)
+![https://github.com/guojunustb/VerticalBannerView/blob/master/art.gif](https://github.com/Rowandjj/VerticalBannerView/blob/master/art.gif)
 
 ### Feature
 
